@@ -8,13 +8,14 @@
 功能也方便一点（兽总，对不住了）
 
 ### 主要使用的技术
+- maven
 - spring boot
 - redis 
 - thymeleaf
 - ...
 
-### 开发工具
- IDEA 
+### 开发工具 & 环境
+ IDEA ， JDK8
  
 ### 运行步骤
 - 克隆到你的本地
@@ -23,9 +24,11 @@
 - 浏览器输入 localhost:8080 即可
 
 ### 运行截图
-(略略略..)
+项目运行截图 1
+![image](https://github.com/lvoyee/ftshorter/blob/master/1.png)
 
-
+项目运行截图 2
+![image](https://github.com/lvoyee/ftshorter/blob/master/2.png)
 ### 如果你喜欢我的代码，给我点个 Star 哦
 #### 有问题 也可以加我的Q 792435323 备注 github 哦
 

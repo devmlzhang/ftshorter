@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>文本信息- 文件文本短地址服务</title>
+    <link th:href="@{/css/bootstrap-combined.min.css}" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+    <link th:href="@{/css/common.css}" href="${base}/css/common.css" rel="stylesheet">
+    <link th:href="@{/css/prettify.css}" href="${base}/assets/shortit/css/prettify.css" type="text/css" rel="stylesheet" />
+
+    <script th:src="@{/webjars/jquery/3.3.1/jquery.js}" type="text/javascript" src="${base}/js/jquery-1.3.2.min.js"></script>
+    <script th:src="@{/js/prettify.js}"  type="text/javascript" src="${base}/js/prettify.js"></script>
+    <script th:src="@{/js/lang-sql.js}" type="text/javascript" src="${base}/js/lang-sql.js"></script>
+    <script th:src="@{/js/lang-go.js}" type="text/javascript" src="${base}/js/lang-go.js"></script>
+    <script th:src="@{/js/lang-css.js}" type="text/javascript" src="${base}/js/lang-css.js"></script>
+    <script th:src="@{/js/application.js}" type="text/javascript" src="${base}/js/application.js"></script>
+    <script th:src="@{/js/txt.js}" type="text/javascript" src="${base}/js/txt.js"></script>
+  </head>
+  <body>
+  <div class="navbar navbar-inverse navbar-fixed-top" id="navbar">
+    <div class="navbar-inner"><div class="container"><a class="brand" href="/">短点!</a></div></div>
+  </div>
+    <div class='container' id='container'>
+      <pre id="content" class="prettyprint"></pre>
+      <hr />
+      <div id="disqus_thread"></div>
+    </div>
+    <footer class="footer"></footer>
+  </body>
+</html>

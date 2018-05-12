@@ -29,6 +29,10 @@
 
 项目运行截图 2
 ![image](https://github.com/lvoyee/ftshorter/blob/master/22.png)
+
+### 特殊说明
+要运行代码前，记得先配置好自己的redis环境，如果没有可以去下载一个windows 版的redis,不然无法正常使用功能！！！ 
+
 ### 如果你喜欢我的代码，给我点个 Star 哦
 #### 有问题 也可以加我的Q 792435323 备注 github 哦
 

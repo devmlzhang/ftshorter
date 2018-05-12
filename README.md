@@ -28,7 +28,7 @@
 ![image](https://github.com/lvoyee/ftshorter/blob/master/1.png)
 
 项目运行截图 2
-![image](https://github.com/lvoyee/ftshorter/blob/master/2.png)
+![image](https://github.com/lvoyee/ftshorter/blob/master/22.png)
 ### 如果你喜欢我的代码，给我点个 Star 哦
 #### 有问题 也可以加我的Q 792435323 备注 github 哦
 
